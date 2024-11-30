@@ -1,0 +1,5 @@
+# Python Ignores:
+__pycache__/
+
+#CPP Ignores:
+build-*/
