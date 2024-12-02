@@ -3,8 +3,8 @@ __pycache__/
 
 #CPP Ignores:
 **/CMakeFiles/
-build-*/
+**/build/*
 out/*
 
 #VSCode Ignores:
-.vscode/*
+**/.vscode/*
